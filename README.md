@@ -1,2 +1,2 @@
 # ROBOTICS
-using fusion for modelling design 
+ learning fusion software
